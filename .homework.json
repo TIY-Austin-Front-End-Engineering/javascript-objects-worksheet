@@ -1,0 +1,13 @@
+{
+    "name": "javascript-objects-worksheet",
+    "version": "0.0.1",
+    "title": "javascript-objects-worksheet",
+    "description": "Practice working with JavaScript objects",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "objects"
+    ]
+}
